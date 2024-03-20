@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, I'm Wojtek 👋🙂 
 
 <!--
 **leszczyw/leszczyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About me:
+As a Senior Data Engineer specializing in the healthcare sector, I bring a wealth of experience and expertise in leveraging data to drive impactful insights and innovations within the complex landscape of.. This is what I would write if I were an artificial intelligence (in this case was [Perplexity](https://www.perplexity.ai/search/Prepare-a-summary-UQfP9dVjR0e3yfcTXvEnOQ#1))

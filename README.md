@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About me:
-As a Senior Data Engineer specializing in the healthcare sector, I bring a wealth of experience and expertise in leveraging data to drive impactful insights and innovations within the complex landscape of.. This is what I would write if I were an artificial intelligence (in this case was [Perplexity](https://www.perplexity.ai/search/Prepare-a-summary-UQfP9dVjR0e3yfcTXvEnOQ#1))
+# About me:
+As a Senior Data Engineer specializing in the Healthcare sector, I bring a wealth of experience and expertise in leveraging data to drive impactful insights and innovations within the complex landscape of.. This is what I would write if I were an artificial intelligence (in this case was [Perplexity](https://www.perplexity.ai/search/Prepare-a-summary-UQfP9dVjR0e3yfcTXvEnOQ#1)). Going to the point:
+- in the IT industry since 2014
+- I've been working as a Data Engineer for 5 years
+- I focus on both soft and hard skills
+- my current tech stack is based on: AWS, Snowflake, and Git
